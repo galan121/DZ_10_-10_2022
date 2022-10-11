@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\bin\Debug\net6.0\DZ_26.exe
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\bin\Debug\net6.0\DZ_26.deps.json
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\bin\Debug\net6.0\DZ_26.runtimeconfig.json
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\bin\Debug\net6.0\DZ_26.dll
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\bin\Debug\net6.0\DZ_26.pdb
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.dll
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\refint\DZ_26.dll
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.pdb
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\DZ_26.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\GB\DZ C#\DZ_10_10_22\DZ_26\obj\Debug\net6.0\ref\DZ_26.dll
