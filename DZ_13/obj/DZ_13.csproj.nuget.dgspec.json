@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_10\\DZ_10.csproj": {}
+    "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_13\\DZ_13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_10\\DZ_10.csproj": {
+    "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_13\\DZ_13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_10\\DZ_10.csproj",
-        "projectName": "DZ_10",
-        "projectPath": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_10\\DZ_10.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_13\\DZ_13.csproj",
+        "projectName": "DZ_13",
+        "projectPath": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_13\\DZ_13.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_10\\obj\\",
+        "outputPath": "C:\\Users\\Андрей\\Desktop\\GB\\DZ C#\\DZ_10_10_22\\DZ_13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"
